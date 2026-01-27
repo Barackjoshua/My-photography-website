@@ -13,9 +13,27 @@ body{
     color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+#p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 #CONT{
     font-weight: bolder;
 }  
+
+#images{
+    border: 2px solid;
+    color: aquamarine;
+    overflow: auto;
+}
+
+#PHOTOS{
+    color: antiquewhite;
+}
+
+#info{
+    border: 2px solid;
+    color: blue;
+}
 
 #reset :hover{
     background-color: red;
