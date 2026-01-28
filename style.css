@@ -4,8 +4,14 @@
     box-sizing: border-box;
 }
 
+#nav{
+    background-color: white;
+}
+
 header{
 font-family: monospace;
+color: red;
+text-decoration: underline;
 }
 
 body{
@@ -29,6 +35,12 @@ body{
 #PHOTOS{
     color: antiquewhite;
 }
+
+#Bio{
+    border: 2px solid;
+    color: salmon;
+}
+
 
 #info{
     border: 2px solid;
